@@ -1,0 +1,16 @@
+{
+    "presets": [[
+        "env", {
+            "targets": {
+                "browsers": [
+                    "last 5 versions",
+                    "ie >= 8"
+                ]
+            }
+        }
+    ]
+    ]
+}
+
+/*we say that the preset should be based on the environment and that we want to target the browsers, 
+* the last five versions and internet explorer greater or equal to version eight*/
